@@ -1,4 +1,4 @@
 sandwich-turn
 =============
 
-Project helper for ETNA's SCC
+Support project for ETNA's SCC
